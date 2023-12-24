@@ -52,7 +52,7 @@
   </a>
 
   <a href="s" style="margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=somi9954&theme=tokyonight&show_icons=true" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=somi9954&theme=tokyonight&show_icons=true" width="39%" />
   </a>
 </div>
 <br>

@@ -44,11 +44,7 @@
   <div align="center"><img src="https://img.shields.io/badge/jolh999@gmail.com-white?style=flat&logo=Gmail"/></a></div>
 <br>
 <br>
-    
- <div align="center">
-  <a href="s" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somi9954&exclude_repo=somi9954.github.io&layout=compact&theme=tokyonight" />
-  </a>
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100&height=100&section=footer)
